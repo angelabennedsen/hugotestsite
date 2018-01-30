@@ -1,7 +1,6 @@
 ---
 title: "Contact"
 date: 2018-01-29T11:31:38+01:00
-draft: true
 ---
 
 Her er jeg:<br>
