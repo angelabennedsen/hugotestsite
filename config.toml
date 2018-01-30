@@ -2,6 +2,7 @@ baseURL = "http://hugosite.angelabennedsen.dk/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "cocoa"
+publishDir = "docs"
 
 [[menu.main]]
 name                   = "Home"
