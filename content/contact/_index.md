@@ -23,3 +23,39 @@ Mariendalsvej 26, 7. tv<br>
 **website:**<br>
 angelabennedsen.dk
 
+
+
+**Kontakt mig her:**
+
+<form action="https://formspree.io/your@email.com"
+      method="POST">
+    <input type="text" name="Navn" class="navn"><br>
+    <input type="email" name="e-mail"class="email"><br>
+    <input type="submit" value="Send" class="sendknap"><br>
+</form>
+
+
+<style> form input {
+    background-color: white;
+    font-family: arial;
+    color: black;
+    }
+    .sendknap {
+        background-color: #BDBDBD;
+        height: 3em; 
+        width: 10em;
+        margin-top: 1em;
+        }
+    .email{
+        background-color: #efefef;
+        height: 3em; 
+        width: 40em;
+        margin-top: 1em;
+        }  
+    .navn {
+        background-color: #efefef;
+        height: 3em; 
+        width: 40em;
+        }        
+</style>
+    
